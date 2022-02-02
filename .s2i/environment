@@ -1,0 +1,2 @@
+DOTNET_STARTUP_PROJECT=WeatherForecast/WeatherForecast.csproj
+DOTNET_ASSEMBLY_NAME=WeatherForecast
